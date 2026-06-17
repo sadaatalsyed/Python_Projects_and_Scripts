@@ -90,14 +90,14 @@ The implementation includes specific programmatic masks to answer key explorator
 ### 1. Feature Correlation Heatmap
 A matrix tracking how mathematical attributes behave relative to one another.
 
-![Vehicle Correlation Matrix](https://github.com/sadaatalsyed/Analysis-Of-Car-DataSet-using-Python/blob/main/Heatmap.png)
+![Vehicle Correlation Matrix](https://github.com/sadaatalsyed/Python_Projects_and_Scripts/blob/main/EDA_Cars/Heatmap.png)
 
 * **Insight:** Horsepower (`HP`) and `Cylinders` show an extremely strong positive correlation with a vehicle's `Price`. Conversely, fuel efficiency metrics (`MPG-H`, `MPG-C`) exhibit a significant negative correlation with engine size and horsepower—confirming the performance-for-efficiency tradeoff.
 
 ### 2. Market Capitalization by Volume (Top Manufacturers)
 A bar ranking illustrating the density of vehicle makes in the data workspace.
 
-![Top Manufacturers](https://github.com/sadaatalsyed/Analysis-Of-Car-DataSet-using-Python/blob/main/Top%20Manufacturers.png)
+![Top Manufacturers](https://github.com/sadaatalsyed/Python_Projects_and_Scripts/blob/main/EDA_Cars/Top%20Manufacturers.png)
 
 * **Insight:** Chevrolet, Ford, and Volkswagen hold massive volume counts within the dataset. Luxury segments like BMW and Audi maintain a notable footprint but are clustered at tightly defined performance distributions.
 
