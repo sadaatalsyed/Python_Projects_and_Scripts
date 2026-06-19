@@ -8,5 +8,5 @@ These projects were done while I was learning for Data Anaysis. But Now I have m
 ## [FIFA_Data_Cleaning](https://github.com/sadaatalsyed/EDA_Data_Cleaning/tree/main/FIFA_Data_Cleaning)
 
 
-## [FIFA_Data_Cleaning](https://github.com/sadaatalsyed/EDA_Data_Cleaning/tree/main/SalesData_EDA)
+## [EDA SalesData_](https://github.com/sadaatalsyed/EDA_Data_Cleaning/tree/main/SalesData_EDA)
 
